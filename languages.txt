@@ -1,5 +1,5 @@
 Look a change!
 
 Python
-Javascript
-C++
+Swift
+Kotlin
